@@ -1,3 +1,5 @@
 print("Mega mocne")
 mocny = "mega"
-print(mocny)
+mega ="mocny"
+print(mocny+mega)
+
